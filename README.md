@@ -1,2 +1,2 @@
-# konyvtar-ni
+# Konyvtar WebAPI
 C# NI Lecture
